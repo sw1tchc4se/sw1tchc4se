@@ -1,20 +1,4 @@
-## Hi there 👋
 
-<!--
-**sw1tchc4se/sw1tchc4se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-I'm currently worki
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # Hello World, I am switchcase
 
@@ -43,11 +27,3 @@ I am a security enthusiast deeply passionate about penetration testing challenge
 - **Reverse Engineering**
 
 ---
-
-## GitHub Statistics
-
-![switchcase's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw1tchc4se&show_icons=true&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw1tchc4se&layout=compact&theme=vision-friendly-dark)
-
-
